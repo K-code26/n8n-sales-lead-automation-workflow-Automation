@@ -95,7 +95,7 @@ I tested the workflow on **10 simulated leads**, including edge cases such as sp
 
 1. **Create the form and sheet.** Make a Google Form with fields for name, email, phone, message and anything else you want the AI to use. Link it to a Google Sheet and name the tab **Leads**.
 2. **Add log columns** to the right of the form columns: `Score`, `Reason`, `Action taken`, `Processed At`, `Processed`. Add a second tab called **Nurture**.
-3. **Import the workflow.** In n8n, choose *Import from file* and select `workflow/lead-qualification.json`.
+3. **Import the workflow.** In n8n, choose *Import from file* and select `workflow/Sales Lead Automation.json`.
 4. **Create your own credentials** for Google Sheets, Gmail, and Gemini. Credentials are not stored in the exported file.
 5. **Update the placeholders:** the spreadsheet and tab, and the column names in the expressions so they match your sheet exactly.
 6. **Activate the workflow** and submit a test lead through your form.
