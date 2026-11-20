@@ -21,7 +21,7 @@ Slow replies lose sales. A business that gets a few hundred enquiries a week can
    
 ## Workflow diagram
 
-![Workflow screenshot](screenshots/workflow.png)
+![Workflow screenshot](Screenshot/workflow.png)
 
 ## Tech stack
 
